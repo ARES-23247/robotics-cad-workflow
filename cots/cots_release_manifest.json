@@ -1,0 +1,113 @@
+{
+  "repository": "ARES-23247/robotics-cad-workflow",
+  "release_tag": "v1.0.0",
+  "total_packs": 13,
+  "total_compressed_bytes": 10473152005,
+  "total_uncompressed_bytes": 20955756077,
+  "packs": [
+    {
+      "name": "cots-pack-01.zip",
+      "size_bytes": 590615435,
+      "uncompressed_bytes": 1730146984,
+      "file_count": 10,
+      "sha256": "147a40ede58f6ab966cdbec5df8c8a66fbfa55f195fc1004a5dffd965a0a3ac7",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-01.zip"
+    },
+    {
+      "name": "cots-pack-02.zip",
+      "size_bytes": 749283927,
+      "uncompressed_bytes": 1730149363,
+      "file_count": 14,
+      "sha256": "04b474fe2e8161dc30bb493fb3bd6e3de69a3d2812c7975288e93216d72d0762",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-02.zip"
+    },
+    {
+      "name": "cots-pack-03.zip",
+      "size_bytes": 686675246,
+      "uncompressed_bytes": 1730150330,
+      "file_count": 17,
+      "sha256": "a007c252930ace86136f60609b25f8fbfb81f1a72c5e69ef890c57f49b24e486",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-03.zip"
+    },
+    {
+      "name": "cots-pack-04.zip",
+      "size_bytes": 836933426,
+      "uncompressed_bytes": 1730148101,
+      "file_count": 27,
+      "sha256": "c88ab511ada28afd32ae8486070ad41522f9ac7989303575b6c996ee52a945d8",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-04.zip"
+    },
+    {
+      "name": "cots-pack-05.zip",
+      "size_bytes": 1135576078,
+      "uncompressed_bytes": 1730146801,
+      "file_count": 40,
+      "sha256": "e63f2a366f8ad2c6f3a320fa6bb9c4ea7ec2ac8c3d62fc47618cd8a592a6f212",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-05.zip"
+    },
+    {
+      "name": "cots-pack-06.zip",
+      "size_bytes": 849872536,
+      "uncompressed_bytes": 1730150268,
+      "file_count": 65,
+      "sha256": "1b36904a26b45e730e650602280b6d5dfb4f1e9324acb411a08befb6fd47e8bb",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-06.zip"
+    },
+    {
+      "name": "cots-pack-07.zip",
+      "size_bytes": 825786968,
+      "uncompressed_bytes": 1730144812,
+      "file_count": 99,
+      "sha256": "217d659efaf7070f203052f7472d827cb5f282a7ae43249816034cbbce9378d3",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-07.zip"
+    },
+    {
+      "name": "cots-pack-08.zip",
+      "size_bytes": 991991522,
+      "uncompressed_bytes": 1730149103,
+      "file_count": 149,
+      "sha256": "d475d0b7dd9999caef1475bb983ecce7235b64f36ce223a78517d023194045ef",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-08.zip"
+    },
+    {
+      "name": "cots-pack-09.zip",
+      "size_bytes": 774175027,
+      "uncompressed_bytes": 1730150355,
+      "file_count": 231,
+      "sha256": "706765979607caa8f468d9aca4e1a51ae041be29f180d1bf4f6a4d36a6976e24",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-09.zip"
+    },
+    {
+      "name": "cots-pack-10.zip",
+      "size_bytes": 785254218,
+      "uncompressed_bytes": 1730150002,
+      "file_count": 339,
+      "sha256": "bfee962fb7bbd1ab3a41f459ef24e90d8841ee05f87160ac0d382b195e230148",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-10.zip"
+    },
+    {
+      "name": "cots-pack-11.zip",
+      "size_bytes": 1065036112,
+      "uncompressed_bytes": 1730148548,
+      "file_count": 635,
+      "sha256": "2977f781668eb4f2e42e062aa3a0daa494e394eb3d8f0627e3a513f7bf45975f",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-11.zip"
+    },
+    {
+      "name": "cots-pack-12.zip",
+      "size_bytes": 1053905463,
+      "uncompressed_bytes": 1730149819,
+      "file_count": 1794,
+      "sha256": "26e9d4b3db480df6e72ded5d16b0fed822c35332901ab7bee2b53c3fe0b1a863",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-12.zip"
+    },
+    {
+      "name": "cots-pack-13.zip",
+      "size_bytes": 128046047,
+      "uncompressed_bytes": 193971591,
+      "file_count": 1780,
+      "sha256": "3bd3164bfdb8512b9e918d638d7643acba68c511138757c4fea3d9e98cb1c5c4",
+      "url": "https://github.com/ARES-23247/robotics-cad-workflow/releases/download/v1.0.0/cots-pack-13.zip"
+    }
+  ]
+}

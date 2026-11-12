@@ -1,0 +1,4 @@
+projects/ftc-swerve-chassis/cad/sp-r3-motion-release/SP_R3_Jointed_Development.sc filter=lfs diff=lfs merge=lfs -text
+projects/ftc-swerve-chassis/cad/sp-r3-motion-release/SP_R3_SENSORS_gate_repaired.step filter=lfs diff=lfs merge=lfs -text
+projects/ftc-swerve-chassis/cad/sp-r3-motion-release/SP_R3_FIXED_motion_repaired.step filter=lfs diff=lfs merge=lfs -text
+projects/ftc-swerve-chassis/cad/sp-r3-motion-release/SP_R3_20261110_Assembly_Source_Inputs.zip filter=lfs diff=lfs merge=lfs -text

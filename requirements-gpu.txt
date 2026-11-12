@@ -1,0 +1,4 @@
+# Optional GPU Soft-Body / Deformable Physics Backend (Genesis + PyTorch)
+# Install via: .\install.ps1 -WithGpuGenesis  (or: uv pip install -r requirements-gpu.txt)
+-r requirements.txt
+genesis-world>=0.2.1
