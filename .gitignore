@@ -1,0 +1,64 @@
+# Local secrets & environment variables (never commit)
+.env
+.env.*
+!.env.example
+
+# Python & Node virtual environments / caches
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+node_modules/
+.matplotlib/
+.mpl-cache/
+.validation_deps/
+*.log
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# OpenCASCADE / FreeCAD / Slicer intermediate geometry caches
+**/baseline-cache/
+**/recovery/
+**/cached-assembly/
+**/cache/
+**/slice-runs/
+**/.mesh_cache/
+**/animation*_frames/
+**/*.brep
+**/*.gcode
+
+# CAD temporary, lock, and backup files
+~$*
+*.fcbak
+*.FCBak
+*.blend1
+*.blend2
+*.bak
+*.tmp
+*.lck
+*.lock
+*.swp
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# COTS binary CAD packs downloaded automatically from GitHub Releases by install.ps1
+# (Indices, SQLite catalog.db, thumbnails, and HTML/Markdown catalogs remain tracked in Git)
+cots/.installed_packs/
+cots/fasteners/
+cots/gobilda-and-fasteners/
+cots/servos-and-hardware/
+cots/swerve-cots/
+cots/vendors/
+cots/solidcraft/diffs/
+cots/solidcraft/generated/
+cots/solidcraft/fasteners/
+cots/solidcraft/gobilda-and-fasteners/
+cots/solidcraft/servos-and-hardware/
+cots/solidcraft/swerve-cots/
+cots/solidcraft/vendors/

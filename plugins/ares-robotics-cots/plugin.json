@@ -1,0 +1,6 @@
+{
+  "id": "ares-robotics-cots",
+  "name": "ARES Robotics COTS Hardware & Assembly Compiler",
+  "version": "1.0.0",
+  "description": "2,588 FTC/FRC COTS parts (goBILDA, REV, Swyft, ThriftyBot, McMaster, ISO) with live 1-click insertion, concentric bore auto-mate, and jointed assembly compilation."
+}

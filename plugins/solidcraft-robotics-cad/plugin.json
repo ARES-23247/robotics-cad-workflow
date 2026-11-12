@@ -1,0 +1,16 @@
+{
+  "name": "solidcraft-robotics-cad",
+  "displayName": "SolidCraft Robotics CAD & COTS",
+  "version": "1.1.0",
+  "description": "Robotics CAD workflow: 2,588 normalized FTC/FRC COTS parts, SolidCraft + build123d co-design, jointed assembly compiler, slicer audit, 3D FEA, and MuJoCo physics.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "ARES Robotics (FTC 23247)"
+  },
+  "suggestedPrompts": [
+    "Search the COTS catalog for an 8mm REX flanged bearing and design a mounting plate in SolidCraft",
+    "Build a parametric motor mount bracket in build123d, compile a jointed .sc assembly, and run 3D FEA",
+    "Audit my 3D-printed STL part for bed fit, overhangs, and first-layer adhesion"
+  ],
+  "repository": "https://github.com/ARES-23247/robotics-cad-workflow"
+}
